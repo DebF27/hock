@@ -1,1 +1,1 @@
-# hock
+# Migthy Ducks Hockey League
